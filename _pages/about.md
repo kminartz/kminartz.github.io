@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! My name is Koen, and I am a PhD candidate in the Data Mining group of Eindhoven University of Technology. My work focuses primarily on generative machine learning for time-evolving data with applications to various scientific domains; however, I am broadly interested and like to work on a variety of topics.
+Hi there! I am a PhD candidate in the Data Mining group of Eindhoven University of Technology. My work focuses primarily on generative machine learning for time-evolving data with applications to various scientific domains; however, I am broadly interested and like to work on a variety of topics.
 
 Some projects that I have been working on include:
 
