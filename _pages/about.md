@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! My name is Koen, and I am a PhD candidate in the Data Mining group of Eindhoven University of Technology. My work focuses primarily on generative machine learning for time-evolving data with applications to various scientific domains; however, in general I am broadly interested and like to work on a variety of topics.
+Hi there! My name is Koen, and I am a PhD candidate in the Data Mining group of Eindhoven University of Technology. My work focuses primarily on generative machine learning for time-evolving data with applications to various scientific domains; however, I am broadly interested and like to work on a variety of topics.
 
 Some projects that I have been working on include:
 
@@ -32,14 +32,14 @@ Some projects that I have been working on include:
   <dt>Nov 28, 2022</dt>
   <dd>
 
-  My master thesis on [Correlation Detective](https://research.tue.nl/files/199809745/Minartz_K.pdf) was awarded the best MSc. thesis in Computer Science of the Netherlands by [KHMW](https://khmw.nl/verslag-prijsuitreikingen-28-november-2022/#:~:text=Lexical%20Decision%20Making%27-,Prijswinnaar%20Koen%20Minartz,-Technische%20Universiteit%20Eindhoven)!
+  My [master thesis](https://research.tue.nl/files/199809745/Minartz_K.pdf) was awarded the [best MSc. thesis in Computer Science](https://www.tue.nl/en/news-and-events/news-overview/09-11-2022-koen-minartz-wins-first-prize-for-computer-science-in-khmw-young-talent-awards) of the Netherlands by KHMW!
 
   </dd>
 
   <dt>Sep 30, 2022</dt>
   <dd>
 
-  My master thesis on [Correlation Detective](https://research.tue.nl/files/199809745/Minartz_K.pdf) received the best MSc. thesis award of Eindhoven University of Technology!
+  My [master thesis](https://research.tue.nl/files/199809745/Minartz_K.pdf) received the [best MSc. thesis award](https://www.tue.nl/en/news-and-events/news-overview/26-09-2022-liveblog-momentum-2022#:~:text=Friday%20September%2030th%2C%202PM%2C%20the%20Master%20Award%20goes%20to....) of Eindhoven University of Technology!
 
   </dd>
 
