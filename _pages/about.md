@@ -17,6 +17,7 @@ Some projects that I have been working on include:
 - Developing generative models for simulation applications in varying domains, for example nuclear fusion [[2]](https://arxiv.org/abs/2305.18944) and cell migration [[3]](https://arxiv.org/abs/2210.01123);
 - Correlation Detective, an algorithm for scalable multivariate correlations discovery in large time series data [[4]](https://dl.acm.org/doi/abs/10.14778/3514061.3514072), [[5]](https://research.tue.nl/files/199809745/Minartz_K.pdf).
 
+Feel free to reach out to have a chat or discuss something! My email address can be found on my [university homepage](https://research.tue.nl/en/persons/koen-minartz).
 
 # News
 
