@@ -9,6 +9,50 @@ redirect_from:
 ---
 
 
+Hi there! My name is Koen, and I am a PhD candidate in the Data Mining group of Eindhoven University of Technology. My work focuses primarily on generative machine learning for time-evolving data with applications to various scientific domains; however, in general I am broadly interested and like to work on a variety of topics.
+
+Some projects that I have been working on include:
+
+- Embedding domain knowledge in generative models for scientific simulation [[1]](https://arxiv.org/abs/2305.14286);
+- Developing generative models for simulation applications in varying domains, for example nuclear fusion [[2]](https://arxiv.org/abs/2305.18944) and cell migration [[3]](https://arxiv.org/abs/2210.01123);
+- Correlation Detective, an algorithm for scalable multivariate correlations discovery in large time series data [[4]](https://dl.acm.org/doi/abs/10.14778/3514061.3514072), [[5]](https://research.tue.nl/files/199809745/Minartz_K.pdf).
+
+
+##News
+
+<dl>
+
+  <dt>Dec 2, 2022</dt>
+  <dd>
+
+  I traveled to New Orleans to present [our paper](https://arxiv.org/abs/2210.01123) at the NeurIPS AI4Science workshop.
+
+  </dd>
+
+  <dt>Nov 28, 2022</dt>
+  <dd>
+
+  My master thesis on [Correlation Detective](https://research.tue.nl/files/199809745/Minartz_K.pdf) was awarded the best MSc. thesis in Computer Science of the Netherlands by [KHMW](https://khmw.nl/verslag-prijsuitreikingen-28-november-2022/#:~:text=Lexical%20Decision%20Making%27-,Prijswinnaar%20Koen%20Minartz,-Technische%20Universiteit%20Eindhoven)!
+
+  </dd>
+
+  <dt>Sep 30, 2022</dt>
+  <dd>
+
+  My master thesis on [Correlation Detective](https://research.tue.nl/files/199809745/Minartz_K.pdf) received the best MSc. thesis award of Eindhoven University of Technology!
+
+  </dd>
+
+
+  <dt>Sep 5, 2022</dt>
+  <dd>
+
+  My colleague Jens and I traveled to Sydney to present our paper on [Correlation Detective](https://dl.acm.org/doi/abs/10.14778/3514061.3514072) at VLDB.
+
+  </dd>
+</dl>
+
+
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
