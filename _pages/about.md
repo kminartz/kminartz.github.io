@@ -39,7 +39,7 @@ Some projects that I have been working on include:
   <dt>Sep 30, 2022</dt>
   <dd>
 
-  My <a href="https://research.tue.nl/files/199809745/Minartz_K.pdf"> master thesis</a> received the [best MSc. thesis award](https://www.tue.nl/en/news-and-events/news-overview/26-09-2022-liveblog-momentum-2022#:~:text=Friday%20September%2030th%2C%202PM%2C%20the%20Master%20Award%20goes%20to....) of Eindhoven University of Technology!
+  My <a href="https://research.tue.nl/files/199809745/Minartz_K.pdf"> master thesis</a> received the <a href="https://www.tue.nl/en/news-and-events/news-overview/26-09-2022-liveblog-momentum-2022#:~:text=Friday%20September%2030th%2C%202PM%2C%20the%20Master%20Award%20goes%20to...."> [best MSc. thesis award]</a> of Eindhoven University of Technology!
 
   </dd>
 
@@ -47,7 +47,7 @@ Some projects that I have been working on include:
   <dt>Sep 5, 2022</dt>
   <dd>
 
-  My colleague Jens and I traveled to Sydney to present our paper on [Correlation Detective](https://dl.acm.org/doi/abs/10.14778/3514061.3514072) at VLDB.
+  My colleague Jens and I traveled to Sydney to present our paper on <a href="https://dl.acm.org/doi/abs/10.14778/3514061.3514072">Correlation Detective</a> at VLDB.
 
   </dd>
 </dl>
