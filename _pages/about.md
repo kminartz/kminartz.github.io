@@ -32,7 +32,7 @@ Some projects that I have been working on include:
   <dt>Nov 28, 2022</dt>
   <dd>
 
-  My <a href="https://research.tue.nl/files/199809745/Minartz_K.pdf" master thesis</a> was awarded the <a href="https://www.tue.nl/en/news-and-events/news-overview/09-11-2022-koen-minartz-wins-first-prize-for-computer-science-in-khmw-young-talent-awards">best MSc. thesis in Computer Science</a> of the Netherlands by KHMW!
+  My <a href="https://research.tue.nl/files/199809745/Minartz_K.pdf"> master thesis</a> was awarded the <a href="https://www.tue.nl/en/news-and-events/news-overview/09-11-2022-koen-minartz-wins-first-prize-for-computer-science-in-khmw-young-talent-awards">best MSc. thesis in Computer Science</a> of the Netherlands by KHMW!
 
   </dd>
 
