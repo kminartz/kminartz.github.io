@@ -18,7 +18,7 @@ Some projects that I have been working on include:
 - Correlation Detective, an algorithm for scalable multivariate correlations discovery in large time series data [[4]](https://dl.acm.org/doi/abs/10.14778/3514061.3514072), [[5]](https://research.tue.nl/files/199809745/Minartz_K.pdf).
 
 
-##News
+## News
 
 <dl>
 
