@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Coming soon"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -25,21 +25,21 @@ Some projects that I have been working on include:
   <dt>Dec 2, 2022</dt>
   <dd>
 
-  I traveled to New Orleans to present [our paper](https://arxiv.org/abs/2210.01123) at the NeurIPS AI4Science workshop.
+  I traveled to New Orleans to present <a href="https://arxiv.org/abs/2210.01123">our paper</a> at the NeurIPS AI4Science workshop.
 
   </dd>
 
   <dt>Nov 28, 2022</dt>
   <dd>
 
-  My [master thesis](https://research.tue.nl/files/199809745/Minartz_K.pdf) was awarded the [best MSc. thesis in Computer Science](https://www.tue.nl/en/news-and-events/news-overview/09-11-2022-koen-minartz-wins-first-prize-for-computer-science-in-khmw-young-talent-awards) of the Netherlands by KHMW!
+  My <a href="https://research.tue.nl/files/199809745/Minartz_K.pdf" master thesis</a> was awarded the <a href="https://www.tue.nl/en/news-and-events/news-overview/09-11-2022-koen-minartz-wins-first-prize-for-computer-science-in-khmw-young-talent-awards">best MSc. thesis in Computer Science</a> of the Netherlands by KHMW!
 
   </dd>
 
   <dt>Sep 30, 2022</dt>
   <dd>
 
-  My [master thesis](https://research.tue.nl/files/199809745/Minartz_K.pdf) received the [best MSc. thesis award](https://www.tue.nl/en/news-and-events/news-overview/26-09-2022-liveblog-momentum-2022#:~:text=Friday%20September%2030th%2C%202PM%2C%20the%20Master%20Award%20goes%20to....) of Eindhoven University of Technology!
+  My <a href="https://research.tue.nl/files/199809745/Minartz_K.pdf"> master thesis</a> received the [best MSc. thesis award](https://www.tue.nl/en/news-and-events/news-overview/26-09-2022-liveblog-momentum-2022#:~:text=Friday%20September%2030th%2C%202PM%2C%20the%20Master%20Award%20goes%20to....) of Eindhoven University of Technology!
 
   </dd>
 
