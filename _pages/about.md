@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! I am a PhD candidate in the Data Mining group of Eindhoven University of Technology. I am broadly interested and like to work on a variety of topics. My recent work focuses primarily on developing generative machine learning models for time-evolving data, and applying these models to various scientific domains.
+Hi there! I am a PhD candidate in the Data Mining group of Eindhoven University of Technology. I am broadly interested, and I like to work on a diverse range of topics and with people from all kinds of backgrounds. My recent work focuses primarily on developing generative machine learning models for time-evolving data, and applying these models to various scientific domains.
 
 Some recent projects that I have been working on include:
 
