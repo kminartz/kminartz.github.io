@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 
-Hi there! I am a PhD candidate in the Data Mining group of Eindhoven University of Technology. I am boradly interested and like to work on a variety of topics. My recent work focuses primarily on developing generative machine learning models for time-evolving data, and applying these models to various scientific domains.
+Hi there! I am a PhD candidate in the Data Mining group of Eindhoven University of Technology. I am broadly interested and like to work on a variety of topics. My recent work focuses primarily on developing generative machine learning models for time-evolving data, and applying these models to various scientific domains.
 
-Some projects that I have been working on include:
+Some recent projects that I have been working on include:
 
 - Embedding domain knowledge in generative models for scientific simulation [[1]](https://arxiv.org/abs/2305.14286);
 - Developing generative models for simulation applications in varying domains, for example nuclear fusion [[2]](https://arxiv.org/abs/2305.18944) and cell migration [[3]](https://arxiv.org/abs/2210.01123);
-- Correlation Detective, an algorithm for scalable multivariate correlations discovery in large time series data [[4]](https://dl.acm.org/doi/abs/10.14778/3514061.3514072), [[5]](https://research.tue.nl/files/199809745/Minartz_K.pdf).
+- Correlation Detective, an algorithm for scalable multivariate correlations discovery in large time series datasets [[4]](https://dl.acm.org/doi/abs/10.14778/3514061.3514072), [[5]](https://research.tue.nl/files/199809745/Minartz_K.pdf).
 
-Feel free to reach out to have a chat or discuss something! My email address can be found on my [university homepage](https://research.tue.nl/en/persons/koen-minartz).
+Feel free to reach out if you want to have a chat! My email address can be found on my [university homepage](https://research.tue.nl/en/persons/koen-minartz).
 
 # News
 
