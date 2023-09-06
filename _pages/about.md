@@ -25,7 +25,7 @@ Feel free to reach out if you want to have a chat! My email address can be found
   <dt>Sep 5, 2023</dt>
   <dd>
 
-  <a href="https://arxiv.org/abs/2305.18944">Our paper</a> on neural PDE solvers for fast divertor plasma simulation in <a href="https://en.wikipedia.org/wiki/Tokamak_%C3%A0_configuration_variable">TCV</a> was accepted at Nuclear Fusion.
+  <a href="https://iopscience.iop.org/article/10.1088/1741-4326/acf70d">Our paper</a> on neural PDE solvers for fast divertor plasma simulation in <a href="https://en.wikipedia.org/wiki/Tokamak_%C3%A0_configuration_variable">TCV</a> was accepted at Nuclear Fusion.
 
   </dd>
 
