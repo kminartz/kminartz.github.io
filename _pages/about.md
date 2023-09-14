@@ -22,6 +22,13 @@ Feel free to reach out if you want to have a chat! My email address can be found
 # News
 
 <dl>
+  <dt>Sep 14, 2023</dt>
+  <dd>
+
+  Our paper "Efficient detection of multivariate corelations with different correlation measures" has been accepted for publication in the VLDB Journal.
+
+  </dd>
+
   <dt>Sep 5, 2023</dt>
   <dd>
 
