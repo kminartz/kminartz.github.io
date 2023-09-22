@@ -22,10 +22,17 @@ Feel free to reach out if you want to have a chat! My email address can be found
 # News
 
 <dl>
+  <dt>Sep 22, 2023</dt>
+  <dd>
+
+  <a href="https://arxiv.org/abs/2305.14286">Our paper</a> on equivariant probabilistic neural simulation has been accepted at NeurIPS 2023!
+
+  </dd>
+
   <dt>Sep 14, 2023</dt>
   <dd>
 
-  Our paper "Efficient detection of multivariate corelations with different correlation measures" has been accepted for publication in the VLDB Journal.
+  Our paper "Efficient detection of multivariate corelations with different correlation measures" has been accepted for publication in the VLDB Journal. The work will be online soon!
 
   </dd>
 
