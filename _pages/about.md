@@ -32,7 +32,7 @@ Feel free to reach out if you want to have a chat! My email address can be found
   <dt>Sep 14, 2023</dt>
   <dd>
 
-  Our paper "Efficient detection of multivariate correlations with different correlation measures" has been accepted for publication in the VLDB Journal. The work will be online soon!
+  Our paper <a href="https://link.springer.com/article/10.1007/s00778-023-00815-y">"Efficient detection of multivariate correlations with different correlation measures"</a> has been accepted for publication in the VLDB Journal!
 
   </dd>
 
