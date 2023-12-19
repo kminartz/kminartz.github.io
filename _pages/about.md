@@ -22,6 +22,11 @@ Feel free to reach out if you want to have a chat! My email address can be found
 # News
 
 <dl>
+  <dt>Dec 20, 2023</dt>
+  <dd>
+  I presented our work on neural simulators for cellular dynamics at the Cellular Potts model workshop in Leiden.
+  </dd>
+
   <dt>Sep 22, 2023</dt>
   <dd>
 
