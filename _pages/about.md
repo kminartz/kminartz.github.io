@@ -22,17 +22,24 @@ Feel free to reach out if you want to have a chat! My email address can be found
 # News
 
 <dl>
+  <dt>Jul 27, 2024</dt>
+  <dd>
+  We presented <a href="https://arxiv.org/abs/2405.17260">our work</a> on fast neural surrogates for two-phase flows at the ICML Ai4Science workshop in Vienna.
+  </dd>
+
   <dt>Dec 20, 2023</dt>
   <dd>
+
   I presented our work on neural simulators for cellular dynamics at the Cellular Potts model workshop in Leiden.
+  
   </dd>
 
-  <dt>Sep 22, 2023</dt>
+  <dt>Dec 11, 2023</dt>
   <dd>
 
-  <a href="https://arxiv.org/abs/2305.14286">Our paper</a> on equivariant probabilistic neural simulation has been accepted at NeurIPS 2023!
-
-  </dd>
+  I presented <a href="https://arxiv.org/abs/2305.14286">our paper</a> on equivariant probabilistic neural simulation at NeurIPS 2023 in New Orleans.
+  
+</dd>
 
   <dt>Sep 14, 2023</dt>
   <dd>
