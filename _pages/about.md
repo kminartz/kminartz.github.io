@@ -9,22 +9,34 @@ redirect_from:
 ---
 
 
-Hi there! I am a PhD candidate in the Data Mining group of Eindhoven University of Technology. I am broadly interested, and I like to work on a diverse range of topics and with people from all kinds of backgrounds. My recent work focuses primarily on developing generative machine learning models for time-evolving data, and applying these models to various scientific domains.
+Hi there! I am a PhD candidate in the Data Mining group of Eindhoven University of Technology. I am broadly interested, and I like to work on a diverse range of topics and with people from all kinds of backgrounds. My recent work focuses primarily on developing generative machine learning models for time-evolving data, and applying these models to various scientific and engineering problems.
 
 Some recent projects that I have been working on include:
 
-- Embedding domain knowledge in generative models for scientific simulation [[1]](https://arxiv.org/abs/2305.14286);
-- Developing generative models for simulation applications in varying domains, for example nuclear fusion [[2]](https://arxiv.org/abs/2305.18944) and cell migration [[3]](https://arxiv.org/abs/2210.01123);
-- Correlation Detective, an algorithm for scalable multivariate correlations discovery in large time series datasets [[4]](https://dl.acm.org/doi/abs/10.14778/3514061.3514072), [[5]](https://research.tue.nl/files/199809745/Minartz_K.pdf).
+- Embedding domain knowledge in generative models for stochastic simulation [[1]](https://arxiv.org/abs/2305.14286), while also leveraging these models to extract new insights [[2]](https://arxiv.org/abs/2412.01491);
+- Developing generative models for simulation applications in varying domains, for example nuclear fusion [[3]](https://arxiv.org/abs/2305.18944), cell migration [[4]](https://arxiv.org/abs/2210.01123) and crowd dynamics [[2]](https://arxiv.org/abs/2412.01491);
+- Correlation Detective, a library for scalable multivariate correlations discovery in large time series datasets [[5]](https://dl.acm.org/doi/abs/10.14778/3514061.3514072), [[6]](https://link.springer.com/article/10.1007/s00778-023-00815-y), [[7]](https://research.tue.nl/files/199809745/Minartz_K.pdf).
 
 Feel free to reach out if you want to have a chat! My email address can be found on my [university homepage](https://research.tue.nl/en/persons/koen-minartz).
 
 # News
 
 <dl>
+
+  <dt>Dec 15, 2024</dt>
+  <dd>
+  We presented <a href="https://tgf2024.sciencesconf.org/?lang=en">our work on probabilistic simulation of crystal growth</a> at <a href="https://d3s3workshop.github.io/">NeurIPS-D3S3</a> in Vancouver.
+  </dd>
+
+  <dt>Dec 4, 2024</dt>
+  <dd>
+  I visited the <a href="https://tgf2024.sciencesconf.org/?lang=en">Traffic and Granular Flow conference</a> in Lyon to present <a href="https://arxiv.org/abs/2412.01491">our work on neural surrogate experiments and simulation of crowd dynamics.</a>.
+  </dd>
+
+
   <dt>Jul 27, 2024</dt>
   <dd>
-  We presented <a href="https://arxiv.org/abs/2405.17260">our work</a> on fast neural surrogates for two-phase flows at the ICML Ai4Science workshop in Vienna.
+  We presented <a href="https://arxiv.org/abs/2405.17260">our work</a> on fast neural surrogates for two-phase flows at ICML-AI4Science in Vienna.
   </dd>
 
   <dt>Dec 20, 2023</dt>
