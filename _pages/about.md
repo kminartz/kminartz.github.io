@@ -92,7 +92,7 @@ Feel free to reach out if you want to have a chat! My email address can be found
   <dt>Sep 5, 2022</dt>
   <dd>
 
-  My colleague Jens and I traveled to Sydney to present our paper on <a href="https://dl.acm.org/doi/abs/10.14778/3514061.3514072">Correlation Detective</a> at VLDB.
+  My colleague [Jens](https://jdhondt.github.io/) and I traveled to Sydney to present our paper on <a href="https://dl.acm.org/doi/abs/10.14778/3514061.3514072">Correlation Detective</a> at VLDB.
 
   </dd>
 </dl>
