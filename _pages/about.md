@@ -9,19 +9,29 @@ redirect_from:
 ---
 
 
-Hi there! I am a PhD candidate in the Data Mining group of Eindhoven University of Technology. I am broadly interested, and I like to work on a diverse range of topics and with people from all kinds of backgrounds. My recent work focuses primarily on developing generative machine learning models for time-evolving data, and applying these models to various scientific and engineering problems.
+Hi there! I am a PhD candidate in the Machine Learning for Physical Sciences group of Eindhoven University of Technology. My recent work focuses primarily on developing generative machine learning models for time-evolving data, and applying these models to various scientific and engineering problems. More generally, I am broadly interested, and I like to work on a diverse range of topics and with people from all kinds of backgrounds.
 
 Some recent projects that I have been working on include:
 
-- Embedding domain knowledge in generative models for stochastic simulation [[1]](https://arxiv.org/abs/2305.14286), while also leveraging these models to extract new insights [[2]](https://arxiv.org/abs/2412.01491);
-- Developing generative models for simulation applications in varying domains, for example nuclear fusion [[3]](https://arxiv.org/abs/2305.18944), cell migration [[4]](https://arxiv.org/abs/2210.01123) and crowd dynamics [[2]](https://arxiv.org/abs/2412.01491);
+- Embedding domain knowledge in generative models for stochastic simulation [[1]](https://arxiv.org/abs/2305.14286), [[2]](https://arxiv.org/abs/2502.02129), while also leveraging these models to extract new insights [[3]](https://www.nature.com/articles/s41598-025-92566-9);
+- Developing generative models for simulation applications in varying domains, for example nuclear fusion [[4]](https://arxiv.org/abs/2305.18944), cell migration [[2]](https://arxiv.org/abs/2502.02129) and crowd dynamics [[3]](https://arxiv.org/abs/2412.01491);
 - Correlation Detective, a library for scalable multivariate correlations discovery in large time series datasets [[5]](https://dl.acm.org/doi/abs/10.14778/3514061.3514072), [[6]](https://link.springer.com/article/10.1007/s00778-023-00815-y), [[7]](https://research.tue.nl/files/199809745/Minartz_K.pdf).
 
-Feel free to reach out if you want to have a chat! My email address can be found on my [university homepage](https://research.tue.nl/en/persons/koen-minartz).
+Feel free to reach out if you want to have a chat -- I am always open to discussions and potential collaborations! My email address can be found on my [university webpage](https://research.tue.nl/en/persons/koen-minartz).
 
 # News
 
 <dl>
+
+  <dt>May 1, 2025</dt>
+  <dd>
+  Our <a href="https://arxiv.org/abs/2502.02129">NeuralCPM paper</a> on neural network-driven simulation of cellular Potts dynamics has been accepted for publication in ICML 2025. See you in Vancouver!
+  </dd>
+
+  <dt>Mar 26, 2025</dt>
+  <dd>
+  <a href="https://www.nature.com/articles/s41598-025-92566-9">Our paper</a> on generative models for crowd dynamics simulation and surrogate experiments has been accepted in Nature Scientific Reports.
+  </dd>
 
   <dt>Dec 15, 2024</dt>
   <dd>
@@ -30,7 +40,7 @@ Feel free to reach out if you want to have a chat! My email address can be found
 
   <dt>Dec 4, 2024</dt>
   <dd>
-  I visited the <a href="https://tgf2024.sciencesconf.org/?lang=en">Traffic and Granular Flow conference</a> in Lyon to present <a href="https://arxiv.org/abs/2412.01491">our work on neural surrogate experiments and simulation of crowd dynamics.</a>.
+  I visited the <a href="https://tgf2024.sciencesconf.org/?lang=en">Traffic and Granular Flow conference</a> in Lyon to present <a href="https://www.nature.com/articles/s41598-025-92566-9">our work on neural surrogate experiments and simulation of crowd dynamics.</a>.
   </dd>
 
 
@@ -42,7 +52,7 @@ Feel free to reach out if you want to have a chat! My email address can be found
   <dt>Dec 20, 2023</dt>
   <dd>
 
-  I presented our work on neural simulators for cellular dynamics at the Cellular Potts model workshop in Leiden.
+  I presented our work on neural simulators for cellular dynamics at the cellular Potts model workshop in Leiden.
   
   </dd>
 
